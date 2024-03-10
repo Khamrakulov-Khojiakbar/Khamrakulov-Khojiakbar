@@ -10,7 +10,7 @@
 - Фреймворки: .NET Framework, .NET Core
 - Базы данных: SQL Server, MySQL
 - Веб-технологии: ASP.NET MVC, ASP.NET Core, HTML, CSS, JavaScript
-- UI-Фрейворки: Winforms, WPF, MAUI
+- UI-Фреймворки: Winforms, WPF, MAUI
 
 
 
