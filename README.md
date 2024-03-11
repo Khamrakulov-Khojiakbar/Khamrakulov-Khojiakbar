@@ -7,8 +7,8 @@
 ## Навыки
 
 - Языки программирования: C#, C++
-- Фреймворки: .NET Framework, .NET Core
-- Базы данных: SQL Server, MySQL
+- Фреймворки: .NET Framework, .NET Core, Entity Framework
+- Базы данных: SQL Server, PostgreSql
 - Веб-технологии: ASP.NET MVC, ASP.NET Core, HTML, CSS, JavaScript
 - UI-Фреймворки: Winforms, WPF, MAUI
 
