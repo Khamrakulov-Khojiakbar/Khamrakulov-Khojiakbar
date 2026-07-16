@@ -46,11 +46,3 @@
 
 * **Email:** [hamrakulov2002@mail.ru](mailto:hamrakulov2002@mail.ru)
 * **Telegram:** [@khamrakul0w](https://t.me/khamrakul0w)
-
----
-
-### 📊 Моя активность на GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamrakulov2002&theme=react-dark" alt="График активности Хожиакбара" width="100%" />
-</p>
