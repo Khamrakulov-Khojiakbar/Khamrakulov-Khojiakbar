@@ -49,14 +49,8 @@
 
 ---
 
-### 📊 Моя статистика на GitHub
+### 📊 Моя активность на GitHub
 
-<p align="left">
-  <!-- График активности (коммиты, PR, ревью) в виде паутинки -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamrakulov2002&theme=visual-studio-dark" alt="Детали профиля и паутинка активности" width="100%" />
-</p>
-
-<p align="left">
-  <!-- Топ используемых языков -->
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamrakulov2002&layout=compact&theme=visual-studio-dark&locale=ru" alt="Используемые языки" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamrakulov2002&theme=react-dark" alt="График активности Хожиакбара" width="100%" />
 </p>
