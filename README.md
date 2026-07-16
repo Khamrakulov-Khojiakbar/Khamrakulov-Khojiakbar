@@ -1,5 +1,8 @@
 # Привет! Я Хожиакбар 👋 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamrakulov2002&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Просмотры" />
+</p>
 
 > **Backend-разработчик**, увлеченный созданием надежных и масштабируемых веб-приложений на платформе **C# .NET**. Люблю проектировать архитектуру баз данных, оптимизировать запросы и создавать удобные интерфейсы (как для веба, так и для десктопа/мобильных платформ).
 
@@ -49,6 +52,6 @@
 ### 📊 Моя статистика на GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khamrakulov-Khojiakbar&show_icons=true&theme=visual-studio-dark&locale=ru" alt="Статистика GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khamrakulov-Khojiakbar&layout=compact&theme=visual-studio-dark&locale=ru" alt="Используемые языки" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamrakulov2002&show_icons=true&theme=visual-studio-dark&locale=ru" alt="Статистика GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamrakulov2002&layout=compact&theme=visual-studio-dark&locale=ru" alt="Используемые языки" />
 </p>
