@@ -52,6 +52,6 @@
 ### 📊 Моя статистика на GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=hamrakulov2002&show_icons=true&theme=visual-studio-dark&locale=ru" alt="Статистика GitHub" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=hamrakulov2002&layout=compact&theme=visual-studio-dark&locale=ru" alt="Используемые языки" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=hamrakulov2002&show_icons=true&theme=visual-studio-dark&locale=ru" alt="Статистика GitHub" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamrakulov2002&layout=compact&theme=visual-studio-dark&locale=ru" alt="Используемые языки" />
 </p>
