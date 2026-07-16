@@ -52,6 +52,11 @@
 ### 📊 Моя статистика на GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=hamrakulov2002&show_icons=true&theme=visual-studio-dark&locale=ru" alt="Статистика GitHub" />
+  <!-- График активности (коммиты, PR, ревью) в виде паутинки -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamrakulov2002&theme=visual-studio-dark" alt="Детали профиля и паутинка активности" width="100%" />
+</p>
+
+<p align="left">
+  <!-- Топ используемых языков -->
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamrakulov2002&layout=compact&theme=visual-studio-dark&locale=ru" alt="Используемые языки" />
 </p>
