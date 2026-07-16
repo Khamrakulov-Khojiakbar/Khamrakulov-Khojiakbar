@@ -1,7 +1,7 @@
 # Привет! Я Хожиакбар 👋 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Просмотры" />
+  <img src="https://komarev.com/ghpvc/?username=Khamrakulov-Khojiakbar&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Просмотры" />
 </p>
 
 > **Backend-разработчик**, увлеченный созданием надежных и масштабируемых веб-приложений на платформе **C# .NET**. Люблю проектировать архитектуру баз данных, оптимизировать запросы и создавать удобные интерфейсы (как для веба, так и для десктопа/мобильных платформ).
